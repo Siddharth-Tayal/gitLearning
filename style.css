@@ -1,4 +1,5 @@
 p {
   color: red;
   font: 500 1.2rem cursive;
+  border: 2px solid yellow;
 }
